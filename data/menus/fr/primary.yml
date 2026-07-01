@@ -56,4 +56,23 @@ items:
   - "/vivre-en-poesie/librairies-en-poesie/"
   path: "/pages/vivre-en-poesie"
   file: content/fr/pages/vivre-en-poesie/_index.html
+- title: Réponses à vos questions
+  slug: reponses-a-vos-questions
+  target: "/reponses-a-vos-questions/"
+  kind: page
+  new_tab: false
+  children:
+  - title: F.A.Q Printemps
+    slug: f-a-q-printemps
+    target: "/reponses-a-vos-questions/faq-printemps/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/reponses-a-vos-questions/faq-printemps"
+    file: content/fr/pages/reponses-a-vos-questions/faq-printemps/_index.html
+  descendants_targets:
+  - "/reponses-a-vos-questions/faq-printemps/"
+  path: "/pages/reponses-a-vos-questions"
+  file: content/fr/pages/reponses-a-vos-questions/_index.html
 
