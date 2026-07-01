@@ -10,6 +10,25 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Éducation artistique et culturelle
+  slug: education-artistique-et-culturelle
+  target: "/education-artistique-et-culturelle/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Écoles en Poésie
+    slug: ecoles-en-poesie
+    target: "/education-artistique-et-culturelle/ecoles-en-poesie/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/education-artistique-et-culturelle/ecoles-en-poesie"
+    file: content/fr/pages/education-artistique-et-culturelle/ecoles-en-poesie/_index.html
+  descendants_targets:
+  - "/education-artistique-et-culturelle/ecoles-en-poesie/"
+  path: "/pages/education-artistique-et-culturelle"
+  file: content/fr/pages/education-artistique-et-culturelle/_index.html
 - title: Vivre en poésie
   slug: vivre-en-poesie
   target: "/vivre-en-poesie/"
