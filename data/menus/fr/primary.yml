@@ -52,7 +52,17 @@ items:
     descendants_targets: []
     path: "/pages/vivre-en-poesie/librairies-en-poesie"
     file: content/fr/pages/vivre-en-poesie/librairies-en-poesie/_index.html
+  - title: Les Maisons de Poésie
+    slug: les-maisons-de-poesie
+    target: "/vivre-en-poesie/les-maisons-de-poesie/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/vivre-en-poesie/les-maisons-de-poesie"
+    file: content/fr/pages/vivre-en-poesie/les-maisons-de-poesie/_index.html
   descendants_targets:
+  - "/vivre-en-poesie/les-maisons-de-poesie/"
   - "/vivre-en-poesie/librairies-en-poesie/"
   path: "/pages/vivre-en-poesie"
   file: content/fr/pages/vivre-en-poesie/_index.html
@@ -71,7 +81,27 @@ items:
     descendants_targets: []
     path: "/pages/reponses-a-vos-questions/faq-printemps"
     file: content/fr/pages/reponses-a-vos-questions/faq-printemps/_index.html
+  - title: F.A.Q Commande d’affiches et marque-pages
+    slug: f-a-q-commande-d-affiches-et-marque-pages
+    target: "/reponses-a-vos-questions/faq-commande-daffiches-et-marque-pages/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/reponses-a-vos-questions/faq-commande-daffiches-et-marque-pages"
+    file: content/fr/pages/reponses-a-vos-questions/faq-commande-daffiches-et-marque-pages/_index.html
+  - title: F.A.Q. Agenda en ligne
+    slug: f-a-q-agenda-en-ligne
+    target: "/reponses-a-vos-questions/faq-agenda-en-ligne/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/reponses-a-vos-questions/faq-agenda-en-ligne"
+    file: content/fr/pages/reponses-a-vos-questions/faq-agenda-en-ligne/_index.html
   descendants_targets:
+  - "/reponses-a-vos-questions/faq-agenda-en-ligne/"
+  - "/reponses-a-vos-questions/faq-commande-daffiches-et-marque-pages/"
   - "/reponses-a-vos-questions/faq-printemps/"
   path: "/pages/reponses-a-vos-questions"
   file: content/fr/pages/reponses-a-vos-questions/_index.html
