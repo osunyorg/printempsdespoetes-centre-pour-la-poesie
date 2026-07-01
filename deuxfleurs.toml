@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/personnes/index.html"
+to = "/les-allie-e-s/"
+
+[[redirects]]
 from = "/librairies-en-poesie/index.html"
 to = "/vivre-en-poesie/librairies-en-poesie/"
 
