@@ -6,4 +6,4 @@ params:
   search:
     active: true
   logo:
-    header: 'assets/images/logo_centre.svg'
+    header: '/assets/images/logo_centre.svg'
