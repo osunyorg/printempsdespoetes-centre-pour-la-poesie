@@ -37,4 +37,13 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Vivre en poésie
+  slug: vivre-en-poesie
+  target: "/vivre-en-poesie/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/vivre-en-poesie"
+  file: content/fr/pages/vivre-en-poesie/_index.html
 
