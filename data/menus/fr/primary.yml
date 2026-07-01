@@ -42,8 +42,18 @@ items:
   target: "/vivre-en-poesie/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Librairies en poésie
+    slug: librairies-en-poesie
+    target: "/vivre-en-poesie/librairies-en-poesie/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/vivre-en-poesie/librairies-en-poesie"
+    file: content/fr/pages/vivre-en-poesie/librairies-en-poesie/_index.html
+  descendants_targets:
+  - "/vivre-en-poesie/librairies-en-poesie/"
   path: "/pages/vivre-en-poesie"
   file: content/fr/pages/vivre-en-poesie/_index.html
 
