@@ -19,6 +19,10 @@ from = "/personnes/index.html"
 to = "/les-allie-e-s/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/printemps-des-poetes-campagne-librairies-v4pdf/"
+
+[[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/les-allie-e-s/equipe-editoriale/"
 
